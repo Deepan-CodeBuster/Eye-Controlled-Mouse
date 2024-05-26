@@ -18,7 +18,7 @@ This project implements an eye-controlled mouse system using OpenCV, MediaPipe, 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/eye-controlled-mouse.git
+   git clone https://github.com/Deepan-CodeBuster/Eye-Controlled-Mouse.git
    cd eye-controlled-mouse
    ```
 
